@@ -1,4 +1,4 @@
 # first.git-demo
 This is my first Repository.
 <br>
-Author - Dhanashree Desai
+Author - Dhanashree Desai (GMIT)
